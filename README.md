@@ -2,7 +2,7 @@
 
 ## 1. Algorithm Study
 
-_Mainly use Python scikit-learn to study and research_
+_Mainly use Python to study and research_
 
 <table>
     <thead>
@@ -13,8 +13,24 @@ _Mainly use Python scikit-learn to study and research_
     </thead>
     <tbody>
         <tr>
-            <td><a href="...">Dimension Reduction</a></td>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Anomaly%20Detection">Anomaly Detection</a></td>
+            <td>PIsolation Forest, Local Outlier Factor, One-Class SVM</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Decision%20Tree%20and%20its%20variants">Decision Tree and its variants</a></td>
+            <td>XGBoost, LightGBM, CatBoost</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Dimension%20Reduction">Dimension Reduction</a></td>
             <td>PCA, Kernal PCA, Sparse PCA, t-SNE</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Frequent%20Itemset%20Mining">Frequent Itemset Mining</a></td>
+            <td>Apriori, FP-Growth, Eclat</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Link%20Analysis">Link Analysis</a></td>
+            <td>PageRank</td>
         </tr>
         <!-- <tr>
             <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Intro to Programming for Business Applications</a></td>
