@@ -1,6 +1,6 @@
 # Data Science Repository for Study Purposes
 
-## 1. Algorithm Study
+## Algorithm Study
 
 _Mainly use Python to study and research_
 
@@ -33,17 +33,45 @@ _Mainly use Python to study and research_
             <td>PageRank</td>
         </tr>
         <!-- <tr>
-            <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Intro to Programming for Business Applications</a></td>
-            <td>Style Transfer</td>
-            <td><em>Python, Tensorflow, Deep Learning, Style Transfer</em></td>
+            <td rowspan=2><a href="...">...</a></td>
+            <td>...</td>
         </tr>
         <tr>
-            <td>Cryptocurrency Prices Forecasting using U.S. stock, COVID-19, and crypto market</td>
-            <td><em>Python, LSTM, Price Forecasting</em></td>
+            <td>...</td>
+            <td><em>...</em></td>
         </tr> -->
     </tbody>
 </table>
 
-## 2. Data Analysis
+## Data Analysis & Visualization
 
-## 3. Data Visualization
+<table>
+    <thead>
+        <tr>
+            <th>Project Name</th>
+            <th>Keywords</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Analysis%20%26%20Visualization/Bike%20Sharing">Bike Sharing</a></td>
+            <td>Business Analysis, seaborn</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Analysis%20%26%20Visualization/COVID-19">COVID-19</a></td>
+            <td>... (In progress)</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Analysis%20%26%20Visualization/Mall%20Customer">Mall Customer</a></td>
+            <td>Clustering, seaborn, sklearn, Kernel PCA, K-Means</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Analysis%20%26%20Visualization/MovieLens%20Movies">MovieLens Movies</a></td>
+            <td>... (In progress)</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Analysis%20%26%20Visualization/Olympics">Olympics</a></td>
+            <td>pyecharts</td>
+        </tr>
+    </tbody>
+</table>
